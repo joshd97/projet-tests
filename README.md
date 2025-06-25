@@ -12,7 +12,7 @@ Ce projet montre comment :
 
 ```bash
 python -m venv .venv
-.venv\Scripts\Activate.ps1        # Windows
+.venv\Scripts\Activate      # Windows
 # ou
 source .venv/bin/activate         # macOS / Linux
 

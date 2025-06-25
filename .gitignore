@@ -1,0 +1,23 @@
+# Fichiers Python à ignorer
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environnement virtuel
+.venv/
+
+# Pytest / Coverage
+.coverage
+.pytest_cache/
+
+# Fichiers de config ou secrets
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Outils/IDE
+.vscode/
+.idea/
